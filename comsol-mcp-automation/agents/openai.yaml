@@ -1,0 +1,4 @@
+interface:
+  display_name: "COMSOL MCP Automation"
+  short_description: "Direct COMSOL automation via MPh or batch"
+  default_prompt: "Use $comsol-mcp-automation to probe this Windows machine for COMSOL, choose the safest runtime path, and automate a model run or results extraction."

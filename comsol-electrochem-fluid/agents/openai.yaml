@@ -1,0 +1,4 @@
+interface:
+  display_name: "COMSOL Electrochem Flow"
+  short_description: "Local COMSOL electrochemistry and flow guidance"
+  default_prompt: "Map the user's electrochemistry or flow problem to local COMSOL examples, extract the right modeling pattern, and propose or implement an automation path."
